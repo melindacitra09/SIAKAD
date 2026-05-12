@@ -120,8 +120,6 @@ SIAkad/
 
 ## 👤 Developer
 
-## 👨‍💻 Developer
-
 <div align="center">
 
 azimzida
