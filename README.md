@@ -120,21 +120,24 @@ SIAkad/
 
 ## 👤 Developer
 
+## 👨‍💻 Developer
+
 <div align="center">
 
-| | |
-|---|---|
-| **Nama** | Azim Saqyal Huda |
-| **Mata Kuliah** | Pemrograman Web |
-| **Universitas** | UPN Veteran Jawa Timur |
-| **GitHub** | [@azimzida](https://github.com/azimzida) |
+azimzida
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-AZIMZIDA-333?logo=github)](https://github.com/azimzida)
 
 ---
 
-<div align="center">
+fawwaz1024
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:3B82F6&height=120&section=footer)
+[![GitHub](https://img.shields.io/badge/GitHub-FAWWAZ1024-333?logo=github)](https://github.com/fawwaz1024)
+
+---
+
+melindacitra09
+
+[![GitHub](https://img.shields.io/badge/GitHub-MELINDACITRA09-333?logo=github)](https://github.com/melindacitra09)
 
 </div>
